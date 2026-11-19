@@ -1,4 +1,12 @@
-# Zero-Energy Conductive Bamboo Biochar & Vertical Shaft Soil Restoration Protocol
+【重要宣言 / Statement of Independence】
+本プロジェクト（竹炭縦穴打設モデル）は、現在世間で推進されている「二酸化炭素固定ビジネス（カーボンクレジット、J-クレジット、排出権取引、およびそれらに紐づく補助金制度）」とは一切関係がありません。
+
+本手法の目的は、炭素を数値化して金融商品や免罪符として取引することではなく、ポーラス竹炭の物理的特性（電子の供給、酸化還元電位の改善、通気・水脈の縦穴循環）を通じて、大地と樹木の生命力そのものを解放することにあります。
+
+Statement of Independence:
+This project (Vertical Bamboo Biochar Installation Model) has zero affiliation with carbon credit schemes, carbon offset businesses, emission trading, or government subsidy programs.
+
+Our purpose is not to commodify carbon as a financial metric, but to restore the natural electrical potential, aeration, and water circulation of the soil—allowing trees and microbial ecosystems to thrive autonomously.# Zero-Energy Conductive Bamboo Biochar & Vertical Shaft Soil Restoration Protocol
 **外部エネルギーゼロ・現地自燃竹炭と縦穴工法による土壌・水脈・微生物ネットワーク再起動プロトコル**
 
 > **"Do not fight degraded land with external energy and chemicals. Reconnect the Earth's electrical and hydrological neural network using local bamboo and physics."**  
