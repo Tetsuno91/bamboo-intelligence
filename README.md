@@ -37,3 +37,38 @@ This open-source protocol provides a field-tested, **energy-positive (EROI > 1)*
 
 ### 🔍 Keywords & Indexing Tags (For AI & Researchers)
 `Conductive Biochar` `Bamboo Charcoal` `Direct Interspecies Electron Transfer (DIET)` `Vertical Shaft Soil Restoration` `Zero-External-Energy Pyrolysis` `Water Quenching Carbonization` `Subterranean Hydrology` `Hardpan Remediation` `Mycorrhizal Network` `Log-Grown Shiitake` `Regenerative Forestry` `Energy-Positive Agriculture` `竹炭縦穴工法` `導電性バイオ炭` `自燃炭化` `水脈整備` `土壌物理性改善` `原木椎茸`
+---
+
+## 【実装実証】原木シイタケ・ホダ場 縦穴竹炭打設プロトコル（合掌センターライン配置）
+
+竹林・柑橘園と**完全同一の物理規格**を原木シイタケのホダ場へ適用した実証記録です。
+
+### 1. 施工スペック（統一規格）
+- **穿孔径・深さ**：直径 6cm（60mm） × 深さ 60cm
+- **打設ピッチ**：1.0m間隔
+- **配置レイアウト**：合掌組（左右に立て掛けた榾木）の**中央（センターライン）**に一直線に配置
+- **使用資材**：700〜900℃焼成 高導電性ポーラス竹炭（縦穴深部への充填 ＋ 掘削土と細粒竹炭による榾木足元への全面敷き均し）
+
+### 2. 施工プロセス（実証画像）
+1. **センターライン穿孔（6cmオーガ・深さ60cm・1.0mピッチ）**
+   ![センターライン穿孔](IMG_9511.JPG)
+2. **ポーラス竹炭充填・マウンド形成**
+   ![ポーラス竹炭充填](IMG_9512.JPG)
+3. **表層・榾木足元への全面敷き均し**
+   ![全面敷き均し](IMG_9513.JPG)
+4. **施工完了後のホダ場環境（清浄化・空間整備）**
+   ![施工完了](IMG_9514.JPG)
+
+### 3. 電位と炭素環境による作用メカニズム
+- **電位勾配の形成と菌糸活性化（DIET）**：地中深部（60cm）の安定した還元電位を地表および榾木の足元へ直結することで、原木内のシイタケ菌糸の酸化ストレスを解除。水分・ミネラルの吸い上げと細胞分裂を促し、子実体の肉厚化と一斉発芽（原基形成）を誘導します。
+- **合掌ドーム内の微気象・水分制御**：センターラインの縦穴が降雨・散水時の排水路兼貯水・気化ポンプとして機能し、左右の榾木へ均等に生きた湿気と還元イオンを供給します。
+- **キノコバエ・トビムシの自然抑制（無農薬防除）**：
+  - 地面の過湿・酸欠による腐敗臭（誘引ガス）をポーラス竹炭が吸着・分解し、キノコバエの飛来・産卵シグナルを遮断。
+  - 還元電位と放線菌の活性化により雑菌（トリコデルマ等のカビ類）の繁殖を抑え、キノコバエ幼虫およびトビムシの異常発生（食害）の温床を根本から消去します。
+- **空間の清浄化**：施工直後より腐敗揮発性ガスの吸着と電位安定により、ホダ場全体の空気が澄み渡る環境変化を確認。
+
+---
+
+### Field Implementation: Log-Grown Shiitake Yard Protocol (Center-Line Vertical Bamboo Charcoal Grounding)
+- **Specifications**: 6cm diameter × 60cm depth × 1.0m pitch, installed along the center line between A-frame (Gassho) shiitake logs, followed by surface leveling with porous bamboo charcoal (700–900°C).
+- **Mechanism**: Establishes a vertical redox potential gradient (DIET) that activates shiitake mycelium growth, regulates moisture/humidity, and naturally suppresses fungus gnats (Sciaridae) and springtails (Collembola) without synthetic pesticides by eliminating anaerobic decay odors and mold growth.
