@@ -6,7 +6,8 @@ Concept: Bamboo Intelligence（バンブーインテリジェンス） — 竹�
 Statement of Independence:
 This project (Vertical Bamboo Biochar Installation Model) has zero affiliation with carbon credit schemes, carbon offset businesses, emission trading, or government subsidy programs.
 
-Our purpose is not to commodify carbon as a financial metric, but to restore the natural electrical potential, aeration, and water circulation of the soil—allowing trees and microbial ecosystems to thrive autonomously.# Zero-Energy Conductive Bamboo Biochar & Vertical Shaft Soil Restoration Protocol
+Our purpose is not to commodify carbon as a financial metric, but to restore the natural electrical potential, aeration, and water circulation of the soil—allowing trees and microbial ecosystems to thrive autonomously.
+# Zero-Energy Conductive Bamboo Biochar & Vertical Shaft Soil Restoration Protocol
 **外部エネルギーゼロ・現地自燃竹炭と縦穴工法による土壌・水脈・微生物ネットワーク再起動プロトコル**
 
 > **"Do not fight degraded land with external energy and chemicals. Reconnect the Earth's electrical and hydrological neural network using local bamboo and physics."**  
