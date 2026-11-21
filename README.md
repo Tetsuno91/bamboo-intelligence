@@ -95,3 +95,19 @@ This open-source protocol provides a field-tested, **energy-positive (EROI > 1)*
 ### Result 2：高い生命力と果実品質
 ![完全無肥料栽培で実った柑橘の近接記録](04_zero_fertilizer_citrus_fruit_quality.jpg.JPG)
 * 酸化腐敗に強く、日持ちする生命力あふれる果実品質を確認。指標となる下草（ツユクサ、フユイチゴ、ワラビ等）の回復とともに生態系全体の循環が自走を開始。
+
+## 1.5 資材調達・現地高温焼成プロトコル / On-Site High-Temperature Carbonization
+
+高価な専用炭化炉や山外への搬出輸送コストを一切排除し、間伐した長尺の孟宗竹を竹林内の湿潤な作業道等で直接高温焼成（700〜900℃）する現場完結型プロセス。
+
+* **生産スペック（Production Spec）：** バックホウ（ユンボ）稼働用の**僅かな軽油のみ**で、長尺竹をそのまま安全に火床へ投入・炭化し、**1バッチあたり 2〜3㎥** の高品質ポーラス竹炭を現地生産可能。
+* **カーボン・ネガティブ効率：** 運搬・粉砕・外部燃料のエネルギーロスをゼロに抑え、山林整備（放置竹林の解消）と土壌整流用資材の大量生産を同時に完結させる。
+
+![竹林内での間伐竹・現地高温焼成プロセス](00b_onsite_bamboo_charcoal_kiln_burn_1.jpg.JPG)
+
+![竹林整備と連動したポーラス竹炭の現地製造風景](00c_onsite_bamboo_charcoal_kiln_burn_2.jpg.jpg)
+
+![重機を活用した安全かつ高効率な竹材の現地焼成作業](00d_excavator_assisted_bamboo_carbonization.jpg.jpg)
+
+![1バッチで焼き上がった約2〜3㎥の高温焼成ポーラス竹炭の山](00e_finished_porous_bamboo_charcoal_mound_3m3.jpg.ＪＰＧ)
+* **焼き上がり実績（Batch Output）：** 消火直後のポーラス竹炭の山（約2〜3㎥）。粉砕工程不要でそのまま地下60cm縦穴へ充填可能な理想的な粒度に仕上がる。
