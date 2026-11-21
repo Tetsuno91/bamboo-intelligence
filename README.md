@@ -73,3 +73,25 @@ This open-source protocol provides a field-tested, **energy-positive (EROI > 1)*
 ### Field Implementation: Log-Grown Shiitake Yard Protocol (Center-Line Vertical Bamboo Charcoal Grounding)
 - **Specifications**: 6cm diameter × 60cm depth × 1.0m pitch, installed along the center line between A-frame (Gassho) shiitake logs, followed by surface leveling with porous bamboo charcoal (700–900°C).
 - **Mechanism**: Establishes a vertical redox potential gradient (DIET) that activates shiitake mycelium growth, regulates moisture/humidity, and naturally suppresses fungus gnats (Sciaridae) and springtails (Collembola) without synthetic pesticides by eliminating anaerobic decay odors and mold growth.
+
+## 2. 施工プロトコル / Installation Protocol（地下60cm竹炭縦穴グリッド）
+
+### Step 1：エンジンオーガーによる地下60cm縦穴の穿孔
+![エンジンオーガーによる地下60cm縦穴グリッドの穿孔作業](01_drilling_60cm_vertical_shaft_grid.jpg.JPG)
+* 大型重機で山肌や表土を踏み固めることなく、エンジンオーガーを用いてピンポイントで深度60cmの垂直孔を等間隔（グリッド状）に穿孔する。
+
+### Step 2：高温焼成ポーラス竹炭の充填・回路形成
+![高温焼成ポーラス竹炭を充填した地下60cm縦穴グリッドの全景](02_bamboo_charcoal_grid_installation_complete.jpg.JPG)
+* 穿孔した縦穴に現地焼成のポーラス竹炭を充填し、斜面全体の土壌電位と地下浸透水脈を繋ぐ立体的な「菌糸・電位ハブ」を構築する。
+
+---
+
+## 3. 実証結果 / Field Results（完全無肥料化・柑橘園）
+
+### Result 1：無肥料での樹勢回復と豊かな結実
+![完全無肥料化・竹炭縦穴グリッド施工園での柑橘の結実と健全な葉色](03_zero_fertilizer_citrus_fruiting_canopy.jpg.JPG)
+* 化学肥料・有機肥料を一切投入せず、地下60cmの竹炭縦穴グリッドによる土壌整流のみで、健全な濃緑の葉色と豊かな結実を実現。
+
+### Result 2：高い生命力と果実品質
+![完全無肥料栽培で実った柑橘の近接記録](04_zero_fertilizer_citrus_fruit_quality.jpg.JPG)
+* 酸化腐敗に強く、日持ちする生命力あふれる果実品質を確認。指標となる下草（ツユクサ、フユイチゴ、ワラビ等）の回復とともに生態系全体の循環が自走を開始。
