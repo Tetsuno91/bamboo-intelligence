@@ -93,6 +93,12 @@ This open-source protocol provides a field-tested, **energy-positive (EROI > 1)*
 * 化学肥料・有機肥料を一切投入せず、地下60cmの竹炭縦穴グリッドによる土壌整流のみで、健全な濃緑の葉色と豊かな結実を実現。
 
 ### Result 2：高い生命力と果実品質
+
+#### Baseline (Before)：土壌整流前の黄金柑（対照記録）
+![土壌整流・完全無肥料化前の黄金柑（果皮の粗皮化・異常肥大）](03b_before_oxidized_soil_citrus_rough_rind.jpg.JPG)
+* **整流前の状態（酸化・栄養過多ストレス）：** 同一圃場における土壌整流前の収穫果（黄金柑）。全体的に油胞が粗く果皮がゴツゴツと肥厚し（粗皮症・異常肥大果の発生）、表面の艶や鮮やかさが失われ酸化腐敗しやすい状態であった。
+
+#### After：土壌整流・完全無肥料化後の果実
 ![完全無肥料栽培で実った柑橘の近接記録](04_zero_fertilizer_citrus_fruit_quality.jpg.JPG)
 * 酸化腐敗に強く、日持ちする生命力あふれる果実品質を確認。指標となる下草（ツユクサ、フユイチゴ、ワラビ等）の回復とともに生態系全体の循環が自走を開始。
 
@@ -100,7 +106,7 @@ This open-source protocol provides a field-tested, **energy-positive (EROI > 1)*
 
 高価な専用炭化炉や山外への搬出輸送コストを一切排除し、間伐した長尺の孟宗竹を竹林内の湿潤な作業道等で直接高温焼成（700〜900℃）する現場完結型プロセス。
 
-* **生産スペック（Production Spec）：** バックホウ（ユンボ）稼働用の**僅かな軽油のみ**で、長尺竹をそのまま安全に火床へ投入・炭化し、**1バッチあたり 2〜3㎥** の高品質ポーラス竹炭を現地生産可能。
+* **生産スペック (Production Spec)：** バックホウ（ユンボ）稼働用の**僅かな軽油のみ**で、長尺竹をそのまま安全に火床へ投入・炭化し、**1バッチあたり 2〜3㎥** の高品質ポーラス竹炭を現地生産可能。
 * **カーボン・ネガティブ効率：** 運搬・粉砕・外部燃料のエネルギーロスをゼロに抑え、山林整備（放置竹林の解消）と土壌整流用資材の大量生産を同時に完結させる。
 
 ![竹林内での間伐竹・現地高温焼成プロセス](00b_onsite_bamboo_charcoal_kiln_burn_1.jpg.JPG)
@@ -109,5 +115,19 @@ This open-source protocol provides a field-tested, **energy-positive (EROI > 1)*
 
 ![重機を活用した安全かつ高効率な竹材の現地焼成作業](00d_excavator_assisted_bamboo_carbonization.jpg.jpg)
 
-![1バッチで焼き上がった約2〜3㎥の高温焼成ポーラス竹炭の山](00e_finished_porous_bamboo_charcoal_mound_3m3.jpg.ＪＰＧ)
-* **焼き上がり実績（Batch Output）：** 消火直後のポーラス竹炭の山（約2〜3㎥）。粉砕工程不要でそのまま地下60cm縦穴へ充填可能な理想的な粒度に仕上がる。
+![1バッチで焼き上がった約2〜3㎥の高温焼成ポーラス竹炭の山](00e_finished_porous_bamboo_charcoal_mound_3m3.jpg.JPG)
+* **焼き上がり実績 (Batch Output)：** 消火直後のポーラス竹炭の山（約2〜3㎥）。粉砕工程不要でそのまま地下60cm縦穴へ充填可能な理想的な粒度に仕上がる。
+
+#### 安全消火・急冷・搬出ロジスティクス / Safety Quenching & Logistics
+
+![消火用水源となる隣接沢水](00f_stream_water_source_for_safe_quenching.jpg.JPG)
+* **自然水源の確保：** 焼成火床の直近に豊富な沢水が流れており、山林火災リスクを完全に排除した立地条件で作業を実施。
+
+![沢水汲み上げ消火用エンジンポンプ](00g_engine_pump_quenching_system.jpg.JPG)
+* **エンジンポンプによる加圧急冷消火：** 沢水をエンジンポンプで汲み上げて一気に散水・急冷することで、灰化（燃え尽き）を防ぎつつ熱衝撃でポーラス構造を固定。
+
+![粉砕不要で縦穴充填可能な仕上がり粒度](00h_ready_to_use_porous_charcoal_granularity.jpg.JPG)
+* **理想的な粒度への自然破砕：** 粉砕機を一切通すことなく、急冷効果によって地下60cm縦穴へそのまま充填可能な均一チップ状に仕上がる。
+
+![現地袋詰めと軽トラックによる直行搬出](0i_onsite_bagging_and_light_truck_transport.jpg.JPG)
+* **現場完結ロジスティクス：** 重機の作業動線上で土嚢袋へ充填し、軽トラックでそのまま施工圃場へ直行搬出する高効率システム。
