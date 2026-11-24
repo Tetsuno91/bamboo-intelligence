@@ -140,3 +140,23 @@ All texts, photographs, field logs, and methodologies in this repository are lic
 Please provide appropriate credit to the original author and repository when citing or sharing this primary field data.
 
 © 2026 Tetsunou91 / Bamboo Intelligence
+---
+
+### 部分皆伐による作業効率化と竹林再生プロトコル / High-Efficiency Partial Clear-Cutting & Bamboo Forest Regeneration Protocol
+
+> **Abstract (English Summary):**
+> Field protocol for restoring overgrown, high-density Moso bamboo (*Phyllostachys edulis*) slopes without subsidies. Instead of hazardous and labor-intensive selective thinning, this method applies strip/partial clear-cutting to eliminate hung-up culms, uses gravity to feed felled bamboo directly to an excavator-assisted on-site carbonization hub, and retains adjacent parent culms to sustain the underground rhizome network. Combined with porous bamboo charcoal soil rectification, the cleared zone regenerates into an optimal, young bamboo shoot (*takenoko*) production grove within 3 to 5 years.
+
+* **記録日 / Baseline Date:** 2026-11-24（Year 0：伐採・炭化直後の基準点記録）
+* **課題（現場の現実） / Field Challenge:** 過密化した放置竹林での「1本ずつの間伐」は、枝葉が絡み合う「かかり木」リスクが極めて高く、作業効率と安全性の両面で現場が破綻しやすい。
+* **手法（部分皆伐×重力搬出） / Method (Partial Clear-Cutting & Gravity Flow):** 斜面を区画（帯状）で一気に皆伐することでかかり木を回避。斜面の重力を活かして麓の重機（B5）および現地炭化スペースへ最短動線で落とし込み、「伐採・集材・炭化・土壌還元」を少人数・低コストで一気通貫させる。
+* **再生ロジック（3〜5年後のタケノコ林仕立て） / Regeneration Logic (3–5 Year Bamboo Shoot Grove):** 全面皆伐とは異なり、両脇に健全な親竹を残すことで地下茎ネットワークへの光合成養分供給（バッテリー機能）を維持。地表への採光と通風による地下茎のリセットに加え、麓で焼いたポーラス竹炭を還元することで、3〜5年後には古い竹が入れ替わり、タケノコ生産に適正な本数・年齢構成の若い竹林へ仕立て直す。
+
+![斜面の上から麓の炭化場・重機へ向かって倒し揃えた部分皆伐の現場](05a_partial_clearcut_gravity_felling.jpg.JPG)
+* **重力と動線の最適化（Gravity-Assisted Felling）：** 過密斜面を一気に開け、搬出労力を最小限に抑えながら麓の炭化・重機エリアへ直結させるレイアウト。
+
+![両脇に親竹を残して光と風を通した帯状の部分皆伐エリア](05b_partial_clearcut_slope_belt.jpg.JPG)
+* **地下茎の維持と更新（Rhizome Preservation & Renewal）：** 両サイドの親竹が地下茎を養い続けることで、笹化や荒廃を防ぎつつ、次世代の健全なタケノコ・親竹の立ち上がりを促す。
+
+![伐採直後の斜面と麓のB5・現地ポーラス竹炭製造拠点](05c_partial_clearcut_excavator_charcoal_hub.jpg.JPG)
+* **0年目の基準点記録（Year 0 Baseline）：** 伐採直後の斜面と麓のB5・炭化スペース。今後1年目・3年目・5年目の再生経過とタケノコ発生状況を同一地点で継続記録する。
