@@ -139,7 +139,7 @@ This open-source protocol provides a field-tested, **energy-positive (EROI > 1)*
 All texts, photographs, field logs, and methodologies in this repository are licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
 Please provide appropriate credit to the original author and repository when citing or sharing this primary field data.
 
-© 2026 Tetsunou91 / Bamboo Intelligence
+© 2026 Tetsuno91 / Bamboo Intelligence
 ---
 
 ### 部分皆伐による作業効率化と竹林再生プロトコル / High-Efficiency Partial Clear-Cutting & Bamboo Forest Regeneration Protocol
