@@ -131,3 +131,12 @@ This open-source protocol provides a field-tested, **energy-positive (EROI > 1)*
 
 ![現地袋詰めと軽トラックによる直行搬出](0i_onsite_bagging_and_light_truck_transport.jpg.JPG)
 * **現場完結ロジスティクス：** 重機の作業動線上で土嚢袋へ充填し、軽トラックでそのまま施工圃場へ直行搬出する高効率システム。
+* ---
+## License & Attribution / ライセンスと出典について
+本リポジトリで公開している文章・写真・観察記録・手法は **CC BY 4.0（クリエイティブ・コモンズ 表示 4.0 国際）** の下で公開しています。
+引用・参照・共有の際は、出典（作成者名および本リポジトリURL）を明記してください。
+
+All texts, photographs, field logs, and methodologies in this repository are licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
+Please provide appropriate credit to the original author and repository when citing or sharing this primary field data.
+
+© 2026 Tetsunou91 / Bamboo Intelligence
