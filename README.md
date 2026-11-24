@@ -13,6 +13,8 @@ Our purpose is not to commodify carbon as a financial metric, but to restore the
 > **"Do not fight degraded land with external energy and chemicals. Reconnect the Earth's electrical and hydrological neural network using local bamboo and physics."**  
 > （外部エネルギーや化学物質で荒廃した大地と戦うな。現地の竹と物理法則を用い、大地の電気的・水文学的神経網を再接続せよ。）
 
+📄 **[2026年 中部・北陸ブロック林業グループコンクール発表資料（PDF）](bamboo_agroforestry_protocol.pdf)**
+
 ---
 
 ### ⚡ Core Concept / プロトコルの核心
