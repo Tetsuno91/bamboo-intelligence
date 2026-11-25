@@ -18,23 +18,23 @@ Our purpose is not to commodify carbon as a financial metric, but to restore the
 ---
 
 ### ⚡ Core Concept / プロトコルの核心
-This open-source protocol provides a field-tested, **energy-positive (EROI > 1)** method for ecological soil recovery, water vein restoration, and fungal cultivation (such as log-grown Shiitake). Unlike industrial biochar or sewage sludge carbonization that consumes massive fossil fuels and subsidies, this method requires **zero external fuel, zero electricity, and zero transportation**.
+This open-source protocol provides a field-tested, **energy-positive (EROI > 1)** method for ecological soil recovery, water vein restoration, and fungal cultivation (such as log-grown Shiitake). Unlike industrial biochar or sewage sludge carbonization that consumes massive fossil fuels, electricity, and subsidies, the carbonization process itself requires **zero external heat sources, zero grid electricity, and zero off-site transportation**—relying only on minimal operational fuel for small on-site machinery (excavator, water pump, auger, and kei truck).
 
-本プロトコルは、現場で実証された**純粋エネルギー黒字（外部燃料・電力・輸送ゼロ）**の土壌再生・水脈回復・菌根ネットワーク再起動手法です。大量の化石燃料や補助金を消費する工業的炭化・汚泥炭とは異なり、その場にある竹の自燃熱と自然水による急冷のみで、高導電性・多孔質の炭素インフラを構築します。
+本プロトコルは、現場で実証された**エネルギー黒字（炭化用外部熱源・商用電力・場外輸送ゼロ）**の土壌再生・水脈回復・菌根ネットワーク再起動手法です。大量の化石燃料や補助金を消費する工業的炭化・汚泥炭とは異なり、最小限の現場機材（小型重機・消火ポンプ・オーガー・軽トラック）の稼働燃料のみを用い、その場にある竹の自燃熱と自然水による急冷によって高導電性・多孔質の炭素インフラを構築します。
 
 ### 🛠️ Key Technical Specifications / 物理・生物学的メカニズム
-1. **High-Temperature Self-Combustion & Water Quenching (700°C–900°C):**  
-   Produces graphitized, high-conductivity bamboo charcoal on-site without external kilns or fossil fuels.  
-   （外部燃料なしの現地自燃と水急冷により、グラフェン構造を持つ高導電性竹炭を生成）
-2. **DIET (Direct Interspecies Electron Transfer) Catalyst:**  
-   Acts as a physical electrical grid in the soil, accelerating microbial electron exchange and mycelial network expansion.  
+1. **High-Temperature Self-Combustion & Water Quenching (700°C–900°C):**
+   Produces graphitized, high-conductivity bamboo charcoal on-site without external kilns or external combustion fuels.
+   （専用炭化炉や炭化用外部燃料を使わない現地自燃と水急冷により、グラフェン構造を持つ高導電性竹炭を生成）
+2. **DIET (Direct Interspecies Electron Transfer) Catalyst:**
+   Acts as a physical electrical grid in the soil, accelerating microbial electron exchange and mycelial network expansion.
    （土壌内の物理的な電気グリッドとして機能し、微生物間の直接電子伝達と菌糸ネットワークの拡大を加速）
-3. **Vertical Shaft Hydrological & Air Injection (竹炭縦穴打設):**  
-   Breaks compacted hardpan layers, restoring vertical water infiltration, subterranean respiration, and natural soil electric potential.  
+3. **Vertical Shaft Hydrological & Air Injection (竹炭縦穴打設):**
+   Breaks compacted hardpan layers, restoring vertical water infiltration, subterranean respiration, and natural soil electric potential.
    （硬化した土壌の盤層を突破し、垂直方向の水脈浸透・地下呼吸・自然電位を回復）
-4. **Permanent Carbon Sequestration (1 : 3.7 Ratio):**  
-   Locks atmospheric CO₂ into stable, non-degradable soil carbon while revitalizing local forestry and agriculture.  
-   （大気中のCO₂を腐敗しない安定炭素として半永久的に地中固定し、地域の林業・農業を自律再生）
+4. **Permanent Carbon Sequestration (1 : 3.7 Theoretical Pure-Carbon Ratio; approx. 2.5–3.1 in actual biochar):**
+   Locks atmospheric CO₂ into stable, non-degradable soil carbon while revitalizing local forestry and agriculture.
+   （大気中のCO₂を腐敗しない安定炭素として半永久的に地中固定し、地域の林業・農業を自律再生 ※純炭素換算の理論値1：3.7、実際の竹炭では固定炭素率に応じ約1：2.5〜3.1）
 
 ---
 
@@ -108,9 +108,8 @@ This open-source protocol provides a field-tested, **energy-positive (EROI > 1)*
 
 高価な専用炭化炉や山外への搬出輸送コストを一切排除し、間伐した長尺の孟宗竹を竹林内の湿潤な作業道等で直接高温焼成（700〜900℃）する現場完結型プロセス。
 
-* **生産スペック (Production Spec)：** バックホウ（ユンボ）稼働用の**僅かな軽油のみ**で、長尺竹をそのまま安全に火床へ投入・炭化し、**1バッチあたり 2〜3㎥** の高品質ポーラス竹炭を現地生産可能。
-* **カーボン・ネガティブ効率：** 運搬・粉砕・外部燃料のエネルギーロスをゼロに抑え、山林整備（放置竹林の解消）と土壌整流用資材の大量生産を同時に完結させる。
-
+* **生産スペック (Production Spec)：** 専用炭化炉や外部熱源を一切使わず、小型バックホウ（ユンボ）や消火ポンプ等の**僅かな稼働燃料のみ**で、長尺竹をそのまま安全に火床へ投入・炭化し、**1バッチあたり 2〜3㎥** の高品質ポーラス竹炭を現地生産可能。
+* **カーボン・ネガティブ効率：** 山外への搬出輸送・大型粉砕機・炭化用外部燃料のエネルギーロスを徹底排除し、山林整備（放置竹林の解消）と土壌整流用資材の大量生産を現場内で完結させる。
 ![竹林内での間伐竹・現地高温焼成プロセス](00b_onsite_bamboo_charcoal_kiln_burn_1.jpg.JPG)
 
 ![竹林整備と連動したポーラス竹炭の現地製造風景](00c_onsite_bamboo_charcoal_kiln_burn_2.jpg.jpg)
