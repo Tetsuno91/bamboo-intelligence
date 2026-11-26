@@ -15,6 +15,13 @@
 
 📄 **[2026年 中部・北陸ブロック林業グループコンクール発表資料（PDF）](bamboo_agroforestry_protocol.pdf)**
 
+### 🪵 Roots & Lineage / ルーツと系譜
+![賀茂竹業研究會の看板と大鋸](DSC_0035.jpg)
+
+This repository inherits the practical spirit of the **Kamo Bamboo Industry Research Association (賀茂竹業研究會)**—preserving the field-tested wisdom of predecessors who worked directly with local bamboo forests and passing it forward as open primary data for the next generation.
+
+かつてこの土地で竹を「業（なりわい）」として向き合い、現場で伐り、試し、研究してきた先人たちの看板（**賀茂竹業研究會**）と大鋸。本リポジトリは、その実践の精神を受け継ぎ、帯状部分皆伐・現地炭化・ポーラス竹炭による土壌整流といった里山・竹林の一次データを、現代のオープンな記録として次世代へ残す取り組みです。
+
 ---
 
 ### ⚡ Core Concept / プロトコルの核心
