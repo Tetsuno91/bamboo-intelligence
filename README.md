@@ -18,6 +18,9 @@
 ### 🪵 Roots & Lineage / ルーツと系譜
 ![賀茂竹業研究會の看板と大鋸](DSC_0035.jpg)
 
+> **賀茂林業研究會の祝詞**  
+> 伊豆の地、賀茂の山々の息吹を背負い、次世代へ向けて森の理を究め、伝えるために組織されたわが賀茂林業研究會は、言霊の理において「大地の母胎から湧き出る生命の息吹を整え、未来の野へと結実させるための究極の知恵の組織なり」
+
 This repository inherits the practical spirit of the **Kamo Bamboo Industry Research Association (賀茂竹業研究會)**—preserving the field-tested wisdom of predecessors who worked directly with local bamboo forests and passing it forward as open primary data for the next generation.
 
 かつてこの土地で竹を「業（なりわい）」として向き合い、現場で伐り、試し、研究してきた先人たちの看板（**賀茂竹業研究會**）と大鋸。本リポジトリは、その実践の精神を受け継ぎ、帯状部分皆伐・現地炭化・ポーラス竹炭による土壌整流といった里山・竹林の一次データを、現代のオープンな記録として次世代へ残す取り組みです。
