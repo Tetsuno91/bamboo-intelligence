@@ -15,6 +15,12 @@
 
 📄 **[2026年 中部・北陸ブロック林業グループコンクール発表資料（PDF）](bamboo_agroforestry_protocol.pdf)**
 
+📂 **Field Protocols & Baseline Data / 現場プロトコル・一次データ**
+- [2021 Noyorin Baseline / 農用林ベースライン概要](./docs/2021_noyorin_baseline/README.md)
+- [Protocol 01: Bamboo Compost / 竹チップ発酵堆肥](./docs/2021_noyorin_baseline/protocols/01_bamboo_compost.md)
+- [Protocol 02: Spent Shiitake Logs in Bamboo Forest / 廃ほだ木×竹林の腐植循環](./docs/2021_noyorin_baseline/protocols/02_shiitake_logs_to_bamboo.md)
+- [Protocol 03: Porous Bamboo Charcoal Bed for Shiitake Log Incubation / ポーラス竹炭ベッドによる原木シイタケ仮伏せ](./docs/2021_noyorin_baseline/protocols/03_charcoal_bed_shiitake_incubation.md)
+
 ### 🪵 Roots & Lineage / ルーツと系譜
 ![賀茂竹業研究會の看板と大鋸](DSC_0035.jpg)
 
