@@ -20,9 +20,10 @@
 - [Protocol 01: Bamboo Compost / 竹チップ発酵堆肥](./docs/2021_noyorin_baseline/protocols/01_bamboo_compost.md)
 - [Protocol 02: Spent Shiitake Logs in Bamboo Forest / 廃ほだ木×竹林の腐植循環](./docs/2021_noyorin_baseline/protocols/02_shiitake_logs_to_bamboo.md)
 - [Protocol 03: Porous Bamboo Charcoal Bed for Shiitake Log Incubation / ポーラス竹炭ベッドによる原木シイタケ仮伏せ](./docs/2021_noyorin_baseline/protocols/03_charcoal_bed_shiitake_incubation.md)
+- [Protocol 04: Bare Subsoil Recovery with Bamboo Chip Compost Only (Haruka & Nabana) / 竹チップ堆肥単独による裸地再生（はるか・なばな）](./docs/2021_noyorin_baseline/protocols/04_bamboo_compost_bare_soil_recovery.md)
 
 ### 🪵 Roots & Lineage / ルーツと系譜
-![賀茂竹業研究會の看板と大鋸](DSC_0035.jpg)
+![賀茂林業研究會の看板と大鋸](DSC_0035.jpg)
 
 > **Norito (Founding Invocation) of the Kamo Forestry Research Group / 賀茂林業研究會の祝詞**
 > *Carrying the living breath of the Kamo mountains in the land of Izu, our Kamo Forestry Research Group—organized to fathom and pass down the ecological principles of the forest to future generations—stands, through the principle of Kotodama (the living spirit of words), as: "An organization of ultimate wisdom dedicated to harmonizing the vital breath springing forth from the womb of the earth, and bringing it to fruition in the fields of the future."*
