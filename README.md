@@ -18,7 +18,9 @@
 ### 🪵 Roots & Lineage / ルーツと系譜
 ![賀茂竹業研究會の看板と大鋸](DSC_0035.jpg)
 
-> **賀茂林業研究會の祝詞**  
+> **Norito (Founding Invocation) of the Kamo Forestry Research Group / 賀茂林業研究會の祝詞**
+> *Carrying the living breath of the Kamo mountains in the land of Izu, our Kamo Forestry Research Group—organized to fathom and pass down the ecological principles of the forest to future generations—stands, through the principle of Kotodama (the living spirit of words), as: "An organization of ultimate wisdom dedicated to harmonizing the vital breath springing forth from the womb of the earth, and bringing it to fruition in the fields of the future."*
+>
 > 伊豆の地、賀茂の山々の息吹を背負い、次世代へ向けて森の理を究め、伝えるために組織されたわが賀茂林業研究會は、言霊の理において「大地の母胎から湧き出る生命の息吹を整え、未来の野へと結実させるための究極の知恵の組織なり」
 
 This repository inherits the practical spirit of the **Kamo Bamboo Industry Research Association (賀茂竹業研究會)**—preserving the field-tested wisdom of predecessors who worked directly with local bamboo forests and passing it forward as open primary data for the next generation.
